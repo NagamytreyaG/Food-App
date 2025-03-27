@@ -1,0 +1,244 @@
+[
+  {
+    "id": 1,
+    "name": "Mehfil",
+    "location": "RTC-X-Roads",
+    "phone_number": 911234567890,
+    "address": "Shop 5, RTC Complex, RTC-X-Roads, Hyderabad, Telangana - 500020",
+    "items": [
+      { "id": 1, "name": "chicken biryani", "cost": 220, "itemType": "lunch", "discount": 15 },
+      { "id": 2, "name": "prawns fry", "cost": 250, "itemType": "snacks", "discount": 10 }
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": 2,
+    "name": "Hotel Shadab",
+    "location": "RTC-X-Roads",
+    "phone_number": 911234567891,
+    "address": "Plot 8, Old City Road, RTC-X-Roads, Hyderabad, Telangana - 500020",
+    "items": [
+      { "id": 1, "name": "mutton biryani", "cost": 280, "itemType": "lunch", "discount": 10 },
+      { "id": 2, "name": "tea", "cost": 30, "itemType": "drinks", "discount": 0 }
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "name": "Alpha Hotel",
+    "location": "Secunderabad",
+    "phone_number": 911234567892,
+    "address": "MG Road, Near Railway Station, Secunderabad, Telangana - 500003",
+    "items": [
+      { "id": 1, "name": "tea", "cost": 20, "itemType": "drinks", "discount": 0 },
+      { "id": 2, "name": "osmania biscuit", "cost": 50, "itemType": "snacks", "discount": 5 }
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": 4,
+    "name": "Biryaniwalla & Co",
+    "location": "Secunderabad",
+    "phone_number": 911234567893,
+    "address": "Shop 12, Paradise Circle, Secunderabad, Telangana - 500003",
+    "items": [
+      { "id": 1, "name": "dum biryani", "cost": 260, "itemType": "lunch", "discount": 12 },
+      { "id": 2, "name": "butter naan", "cost": 50, "itemType": "dinner", "discount": 5 }
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": 5,
+    "name": "Café 555",
+    "location": "Tolichowki",
+    "phone_number": 911234567894,
+    "address": "Toli Chowki Main Road, Hyderabad, Telangana - 500008",
+    "items": [
+      { "id": 1, "name": "chicken haleem", "cost": 230, "itemType": "dinner", "discount": 10 },
+      { "id": 2, "name": "khubani ka meetha", "cost": 90, "itemType": "dessert", "discount": 5 }
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": 6,
+    "name": "Grand Hotel",
+    "location": "Tolichowki",
+    "phone_number": 911234567895,
+    "address": "Road 2, Near Golconda Fort, Tolichowki, Hyderabad, Telangana - 500008",
+    "items": [
+      { "id": 1, "name": "rumali roti", "cost": 40, "itemType": "dinner", "discount": 0 },
+      { "id": 2, "name": "kebab platter", "cost": 300, "itemType": "snacks", "discount": 15 }
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": 7,
+    "name": "Minerva Coffee Shop",
+    "location": "Banjara Hills",
+    "phone_number": 911234567896,
+    "address": "Road No 12, Banjara Hills, Hyderabad, Telangana - 500034",
+    "items": [
+      { "id": 1, "name": "filter coffee", "cost": 60, "itemType": "drinks", "discount": 0 },
+      { "id": 2, "name": "veg thali", "cost": 200, "itemType": "lunch", "discount": 10 }
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": 8,
+    "name": "Ohri’s Jiva",
+    "location": "Banjara Hills",
+    "phone_number": 911234567897,
+    "address": "Ohri’s Building, Road No 10, Banjara Hills, Hyderabad, Telangana - 500034",
+    "items": [
+      { "id": 1, "name": "pasta alfredo", "cost": 300, "itemType": "dinner", "discount": 10 },
+      { "id": 2, "name": "strawberry shake", "cost": 120, "itemType": "drinks", "discount": 5 }
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": 9,
+    "name": "Subhan Bakery",
+    "location": "Charminar",
+    "phone_number": 911234567898,
+    "address": "Moti Gali, Near Charminar, Hyderabad, Telangana - 500002",
+    "items": [
+      { "id": 1, "name": "puff", "cost": 50, "itemType": "snacks", "discount": 5 },
+      { "id": 2, "name": "dilkhush", "cost": 40, "itemType": "snacks", "discount": 5 }
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": 10,
+    "name": "Rumaan Hotel",
+    "location": "Charminar",
+    "phone_number": 911234567899,
+    "address": "Pathergatti, Charminar, Hyderabad, Telangana - 500002",
+    "items": [
+      { "id": 1, "name": "mutton korma", "cost": 250, "itemType": "dinner", "discount": 10 },
+      { "id": 2, "name": "khatti dal", "cost": 120, "itemType": "lunch", "discount": 5 }
+    ],
+    "rating": 4.4
+  }
+]
+[
+  {
+    "id": 11,
+    "name": "Bawarchi",
+    "location": "RTC-X-Roads",
+    "phone_number": 911234567900,
+    "address": "Opposite Sandhya Theatre, RTC-X-Roads, Hyderabad, Telangana - 500020",
+    "items": [
+      { "id": 1, "name": "chicken biryani", "cost": 250, "itemType": "lunch", "discount": 10 },
+      { "id": 2, "name": "double ka meetha", "cost": 80, "itemType": "dessert", "discount": 5 }
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": 12,
+    "name": "Paradise",
+    "location": "Secunderabad",
+    "phone_number": 911234567901,
+    "address": "Paradise Circle, MG Road, Secunderabad, Telangana - 500003",
+    "items": [
+      { "id": 1, "name": "hyderabadi dum biryani", "cost": 290, "itemType": "lunch", "discount": 15 },
+      { "id": 2, "name": "falooda", "cost": 110, "itemType": "dessert", "discount": 10 }
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": 13,
+    "name": "Shah Ghouse",
+    "location": "Tolichowki",
+    "phone_number": 911234567902,
+    "address": "Opposite Reliance Trends, Tolichowki, Hyderabad, Telangana - 500008",
+    "items": [
+      { "id": 1, "name": "mutton biryani", "cost": 260, "itemType": "dinner", "discount": 10 },
+      { "id": 2, "name": "chicken 65", "cost": 200, "itemType": "snacks", "discount": 5 }
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": 14,
+    "name": "Chutneys",
+    "location": "Banjara Hills",
+    "phone_number": 911234567903,
+    "address": "Road No 36, Jubilee Hills, Hyderabad, Telangana - 500033",
+    "items": [
+      { "id": 1, "name": "babai idli", "cost": 120, "itemType": "breakfast", "discount": 10 },
+      { "id": 2, "name": "pesarattu", "cost": 150, "itemType": "breakfast", "discount": 5 }
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": 15,
+    "name": "Pista House",
+    "location": "Charminar",
+    "phone_number": 911234567904,
+    "address": "Shalibanda Road, Near Charminar, Hyderabad, Telangana - 500002",
+    "items": [
+      { "id": 1, "name": "haleem", "cost": 300, "itemType": "dinner", "discount": 15 },
+      { "id": 2, "name": "fruit falooda", "cost": 130, "itemType": "dessert", "discount": 10 }
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": 16,
+    "name": "Almond House",
+    "location": "Banjara Hills",
+    "phone_number": 911234567905,
+    "address": "Road No 10, Near KBR Park, Banjara Hills, Hyderabad, Telangana - 500034",
+    "items": [
+      { "id": 1, "name": "kaju katli", "cost": 500, "itemType": "sweets", "discount": 10 },
+      { "id": 2, "name": "badam milk", "cost": 80, "itemType": "drinks", "discount": 5 }
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": 17,
+    "name": "The Big Chill Cakery",
+    "location": "Mumbai",
+    "phone_number": 911234567906,
+    "address": "Shop 1, Samruddhi Complex, Chincholi, Mumbai, Maharashtra - 400002",
+    "items": [
+      { "id": 1, "name": "red velvet cake", "cost": 280, "itemType": "dessert", "discount": 10 },
+      { "id": 2, "name": "chocolate mousse", "cost": 250, "itemType": "dessert", "discount": 5 }
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": 18,
+    "name": "Indigo Deli",
+    "location": "Mumbai",
+    "phone_number": 911234567907,
+    "address": "High Street Phoenix, Lower Parel, Mumbai, Maharashtra - 400013",
+    "items": [
+      { "id": 1, "name": "cheese sandwich", "cost": 320, "itemType": "snacks", "discount": 10 },
+      { "id": 2, "name": "cold coffee", "cost": 180, "itemType": "drinks", "discount": 5 }
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": 19,
+    "name": "Pizza By The Bay",
+    "location": "Mumbai",
+    "phone_number": 911234567908,
+    "address": "Marine Drive, Near Chowpatty, Mumbai, Maharashtra - 400020",
+    "items": [
+      { "id": 1, "name": "margherita pizza", "cost": 450, "itemType": "lunch", "discount": 10 },
+      { "id": 2, "name": "garlic bread", "cost": 150, "itemType": "snacks", "discount": 5 }
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": 20,
+    "name": "The Table",
+    "location": "Mumbai",
+    "phone_number": 911234567909,
+    "address": "Colaba, Near Gateway of India, Mumbai, Maharashtra - 400001",
+    "items": [
+      { "id": 1, "name": "truffle pasta", "cost": 600, "itemType": "dinner", "discount": 10 },
+      { "id": 2, "name": "tiramisu", "cost": 250, "itemType": "dessert", "discount": 5 }
+    ],
+    "rating": 4.9
+  }
+]
